@@ -1,0 +1,1 @@
+curl -d '{"name": "OCUPACIONAL SS SAÚDE E SEGURANÇA DO TRABALHO", "address": "Rua Francisco de Morais, 219", "cep": "04714-010", "email": "VANESSA@GBEN.COM.BR", "whatsapp": "(11) 93567-8031", "services": "Exames Clínicos"}' -H "Content-Type: application/json" -X POST http://localhost:3333/clinics
